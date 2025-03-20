@@ -14,13 +14,13 @@ Data Visualization: Explores relationships and correlations in the dataset with 
 
 To run this project, you’ll need:
 
-Python 3.12
+- Python 3.12
 
-Libraries: numpy, pandas, seaborn, scikit-learn, tensorflow
+- Libraries: numpy, pandas, seaborn, scikit-learn, tensorflow
 
-Install the required dependencies using pip:
+**Install the required dependencies using pip:**
 
-pip install numpy pandas seaborn scikit-learn tensorflow
+*pip install numpy pandas seaborn scikit-learn tensorflow*
 
 ***Usage***
 
