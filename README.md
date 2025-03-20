@@ -17,9 +17,9 @@ Libraries: numpy, pandas, seaborn, scikit-learn, tensorflow
 
 Install the required dependencies using pip:
 
-bash
 pip install numpy pandas seaborn scikit-learn tensorflow
-Usage
+
+$\chi$
 Clone this repository or download the notebook.
 
 Open the provided Jupyter Notebook.
