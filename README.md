@@ -8,7 +8,7 @@ Data Preprocessing: Handles and preprocesses data efficiently using pandas.
 
 Data Visualization: Explores relationships and correlations in the dataset with seaborn.
 
-Installation
+\textbf{Installation}
 To run this project, you’ll need:
 
 Python 3.12
@@ -19,7 +19,6 @@ Install the required dependencies using pip:
 
 pip install numpy pandas seaborn scikit-learn tensorflow
 
-$\chi$
 Clone this repository or download the notebook.
 
 Open the provided Jupyter Notebook.
