@@ -1,4 +1,4 @@
-***Neural Network for Breast Cancer Prediction***
+# ***Neural Network for Breast Cancer Prediction***
 
 This project develops a simple feedforward neural network with 3 layers and a total of 12 neurons to predict breast cancer. Using a built-in dataset, it achieves a prediction accuracy of approximately 98% on both the training and test sets, demonstrating robust performance in binary classification tasks.
 
